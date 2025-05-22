@@ -185,13 +185,13 @@ input:checked + label .description {
 }
 
 .card[for="c1"] {
-    background-image: url('../images/java3.jpg!d');
+    background-image: url('../images/PostgreSQL_NetLib_Encryptionizer.png');
 }
 .card[for="c2"] {
-    background-image: url('../images/python.png');
+    background-image: url('../images/MySQL.png');
 }
 .card[for="c3"] {
-    background-image: url('../images/JavaScript.webp');
+    background-image: url('../images/power_bi.webp');
 }
 .card[for="c4"] {
     background-image: url('../images/htmlcss.webp');
